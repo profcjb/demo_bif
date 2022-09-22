@@ -2,5 +2,5 @@
 
 ## Code ajouté pendant le cours:
 
-abc
-def
+- abc
+- def
